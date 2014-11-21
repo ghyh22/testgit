@@ -3,3 +3,4 @@ test 3
 test commit -a
 测试修改后缓存 1
 测试分支1
+branch test 2
